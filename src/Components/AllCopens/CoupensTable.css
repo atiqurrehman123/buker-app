@@ -1,0 +1,12 @@
+.check-status{
+    display: flex;
+    gap: 12px;
+    justify-content: right;
+    align-items: center;
+    cursor: pointer;
+    padding-right: 58px;
+}
+.check-status button
+{border: none;
+    cursor: pointer;
+background: none;}
